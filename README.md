@@ -1,6 +1,6 @@
 - 👋  Hi, I’m @pcusa94
 - 👀  I’m interested in software development, biology, and finance
-- 🌱  I’m currently learning computer science at Rutgers University
+- 🌱  I’m currently learning computer science at Rutgers University (graduating in December 2021)
 - 💞️  I’m currently not looking to collaborate (too busy with school)
 - 📫  How to reach me: pauljcusa@gmail.com
 
