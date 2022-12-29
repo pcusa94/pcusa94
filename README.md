@@ -1,6 +1,6 @@
 - 👋  Hi, I’m @pcusa94
 - 👀  I’m interested in software development, biology, and finance
-- 🌱  I’m currently learning computer science at Rutgers University (graduating in December 2021)
+- 💻  I currently work as a software engineer at AWS
 - 📫  How to reach me: pauljcusa@gmail.com
 
 <!---
